@@ -38,11 +38,15 @@ Obsługa licznika, bazy danych JSON, modali i głosowania.
 <img src="https://i.imgur.com/R6GxI8K.jpeg" alt="Lobby" width="200" style="margin:5px"/> 
 <img src="https://i.imgur.com/M6ZbyU7.jpeg" alt="Regulamin" width="200" style="margin:5px"/>
 </div>
+<img src="https://i.imgur.com/N865HHx.jpeg" alt="Opinie" width="200" style="margin:5px"/>
+</div>
+
 
 **Opis screenshotów:**
 
 - **LOBBY** – zaproszenia, monety i interakcje użytkowników  
-- **REGULAMIN** – zasady serwera wyświetlane w kanale  
+- **REGULAMIN** – zasady serwera wyświetlane w kanale
+- **OPINIE** - możesz zostawić opinię na serwerze
 
 [Repozytorium](https://github.com/twoj-repo/lightningcode) | [Demo](#)
 
