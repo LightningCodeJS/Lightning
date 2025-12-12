@@ -26,6 +26,9 @@ Jestem pasjonatem programowania i technologii. Lubię tworzyć projekty w JavaSc
 
 ### 1️⃣ Discord Bot – LightningCode ⚡
 ![LightningCode](https://i.imgur.com/M6ZbyU7.jpeg) LOBBY ( zaproszenia + monety )
+(https://i.imgur.com/R6GxI8K.jpeg) 
+REGULAMIN 
+
 - System opinii i propozycji z embedami, przyciskami i wątkami  
 - Liczniki, baza danych JSON  
 - Obsługa modali i głosowania  
